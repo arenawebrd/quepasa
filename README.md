@@ -216,6 +216,8 @@ Baixar Workflow
 </p>
 Disponiveis nesse Github
 </p>
+----------------------------------------------------------------------------
+</p>
 
 **Configue os Worflows no N8N**
 
@@ -230,6 +232,8 @@ Coloque suas credenciais NOS PostgreSQL, elas estarão em seu .env na pasta /hom
 </p>
 Ligue seu Workflow e divirta-se 
 
+</p>
+----------------------------------------------------------------------------
 </p>
 
 **Worflows ChatwootToQuepasa QuepasaToChatwoot**
