@@ -18,7 +18,7 @@
 </p>
 ----------------------------------------------------------------------------
 </p>
-Manual de Instalação Chatwoot+N8N+Quepasa
+**Manual de Instalação Chatwoot+N8N+Quepasa**
 </p>
 ----------------------------------------------------------------------------
 </p>
@@ -38,7 +38,7 @@ quepa.dominio.com.br
 </p>
 ----------------------------------------------------------------------------
 </p>
-Manual de Instalação ChatWoot
+**Manual de Instalação ChatWoot**
 </p>
 sudo apt update && sudo apt upgrade
 </p>
@@ -66,7 +66,7 @@ Adicione
 </p>
 ----------------------------------------------------------------------------
 </p>
-Manual de Instalação N8N
+**Manual de Instalação N8N**
 </p>
 sudo apt update && sudo apt upgrade
 </p>
@@ -128,7 +128,7 @@ pm2 start n8n --cron-restart="0 0 * * *" -- start
 </p>
 ----------------------------------------------------------------------------
 </p>
-Manual de Instalação API Quepasa
+**Manual de Instalação API Quepasa**
 </p>
 git clone https://github.com/sufficit/sufficit-quepasa /opt/quepasa-source
 </p>
@@ -184,7 +184,7 @@ systemctl restart quepasa
 </p>
 ----------------------------------------------------------------------------
 </p>
-Primeira parte da Instalação Finalizadas
+**Primeira parte da Instalação Finalizadas**
 </p>
 Acesse:
 </p>
@@ -200,7 +200,7 @@ Faça os cadastros em todos eles
 </p>
 ----------------------------------------------------------------------------
 </p>
-Instalar NO no N8N
+**Instalar NO no N8N**
 </p>
 n8n-nodes-chatwoot
 </p>
@@ -212,7 +212,7 @@ Disponiveis nesse Github
 </p>
 ----------------------------------------------------------------------------
 </p>
-Criando Seu Bot Agente
+**Criando Seu Bot Agente**
 </p>
 Acesse: chatwoot.dominio.com.br/superadmin
 </p>
@@ -220,13 +220,13 @@ Crie seu Token Platform Apps
 </p>
 ----------------------------------------------------------------------------
 </p>
-Crie uma Automação conforme a imagem abaixo
+**Crie uma Automação conforme a imagem abaixo**
 </p>
 <img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Automa%C3%A7%C3%A3o.png" alt="Automação" width="1000" />
 </p>
 ----------------------------------------------------------------------------
 </p>
-Criando sua Caixa de Entrada
+**Criando sua Caixa de Entrada**
 </p>
 Criar um contato no Chatwoot
 </p>
@@ -244,6 +244,6 @@ Quepasa Control
 </p>
 ----------------------------------------------------------------------------
 </p>
-Pronto tudo Funcionando
+**Pronto tudo Funcionando**
 </p>
 ----------------------------------------------------------------------------
