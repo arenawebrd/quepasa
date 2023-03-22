@@ -19,7 +19,7 @@
 ----------------------------------------------------------------------------
 </p>
 
-**Ajude o desenvolvedor deste Manual**
+**Gostou do Tutorial? Faça sua Contribuição**
 
 <img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
 </p>
@@ -277,4 +277,11 @@ Leia QRCODE
 
 **Pronto tudo Funcionando**
 
+----------------------------------------------------------------------------
+</p>
+
+**Gostou do Tutorial? Faça sua Contribuição**
+
+<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
+</p>
 ----------------------------------------------------------------------------
