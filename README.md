@@ -12,7 +12,7 @@
 </p>
 <hr />
 <p align="left">
-	<img src="https://telegram.org/favicon.ico" alt="Telegram-logo" width="32" />
+	<img src="[https://telegram.org/favicon.ico](https://png.pngtree.com/png-clipart/20210214/ourmid/pngtree-whatsapp-icon-whatsapp-logo-free-logo-design-template-png-image_5990837.png)" alt="Telegram-logo" width="32" />
 	<span>Grupo WhatsaAPP: </span>
 	<a href="https://t.me/quepasa_api" target="_blank">Group</a>
 </p>
