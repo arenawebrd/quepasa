@@ -17,9 +17,9 @@
 	<a href="https://t.me/quepasa_api" target="_blank">Group</a>
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Manual de Instalação Chatwoot+N8N+Quepasa**
-</p>
+
 ----------------------------------------------------------------------------
 </p>
 Vamos precisar de 3 subdomínios
