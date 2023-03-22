@@ -211,9 +211,9 @@ Baixar Workflow
 Disponiveis nesse Github
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Criando Seu Bot Agente**
-</p>
+
 Acesse: chatwoot.dominio.com.br/superadmin
 </p>
 Crie seu Token Platform Apps
