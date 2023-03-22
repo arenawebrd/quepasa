@@ -234,13 +234,13 @@ Quepasa Control
 </p>
 control@quepasa.io
 </p>
-Envia uma mensagem para
- </p>
-Contato Criado
+Envia uma mensagem para Contato Criado
 </p>
 Quepasa Control
 </p>
 /qrcode
+</p>
+Leia QRCODE
 </p>
 ----------------------------------------------------------------------------
 
