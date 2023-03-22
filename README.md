@@ -196,5 +196,64 @@ quepa.dominio.com.br/setup
 </p>
 Faça os cadastros em todos eles
 </p>
-
+----------------------------------------------------------------------------
+</p>
+----------------------------------------------------------------------------
+</p>
+Instalar NO no N8N
+</p>
+n8n-nodes-chatwoot
+</p>
+n8n-nodes-quepasa
+</p>
+Baixar Workflow
+</p>
+https://drive.google.com/drive/folders/1iqnDNIUou-Ly_9-WCI8_8J1Fqe9mrCH-?usp=share_link
+</p>
+----------------------------------------------------------------------------
+</p>
+Criando Seu Bot Agente
+</p>
+Acesse: chatwoot.dominio.com.br/superadmin
+</p>
+Crie seu Token Platform Apps
+</p>
+----------------------------------------------------------------------------
+</p>
+Crie uma Automação conforme a imagem abaixo
+</p>
+https://drive.google.com/drive/folders/1iqnDNIUou-Ly_9-WCI8_8J1Fqe9mrCH-?usp=share_link
+</p>
+----------------------------------------------------------------------------
+</p>
+Criando sua Caixa de Entrada
+</p>
+Criar um contato no Chatwoot
+</p>
+Quepasa Control
+</p>
+control@quepasa.io
+</p>
+Envia uma mensagem para
+ </p>
+Contato Criado
+</p>
+Quepasa Control
+</p>
+/qrcode
+</p>
+Apos escanear Qrcode execute os seguintes comandos
+</p>
+/info
+</p>
+/webhook update
+</p>
+Duvidas veja como criar sua Caixa de Entrada
+</p>
+https://drive.google.com/drive/folders/1iqnDNIUou-Ly_9-WCI8_8J1Fqe9mrCH-?usp=share_link
+</p>
+----------------------------------------------------------------------------
+</p>
+Pronto tudo Funcionando
+</p>
 ----------------------------------------------------------------------------
