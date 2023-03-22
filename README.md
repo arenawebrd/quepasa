@@ -37,9 +37,9 @@ n8n.dominio.com.br
 quepa.dominio.com.br
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Manual de Instalação ChatWoot**
-</p>
+
 sudo apt update && sudo apt upgrade
 </p>
 wget https://get.chatwoot.app/linux/install.sh
@@ -65,9 +65,9 @@ nano /home/chatwoot/chatwoot/.env
 Adicione
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Manual de Instalação N8N**
-</p>
+
 sudo apt update && sudo apt upgrade
 </p>
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
@@ -127,9 +127,9 @@ sudo service nginx restart
 pm2 start n8n --cron-restart="0 0 * * *" -- start
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Manual de Instalação API Quepasa**
-</p>
+
 git clone https://github.com/sufficit/sufficit-quepasa /opt/quepasa-source
 </p>
 bash /opt/quepasa-source/helpers/install.sh
@@ -183,9 +183,9 @@ WEBSOCKETSSL=true
 systemctl restart quepasa
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Primeira parte da Instalação Finalizadas**
-</p>
+
 Acesse:
 </p>
 chatwoot.dominio.com.br
@@ -199,9 +199,9 @@ Faça os cadastros em todos eles
 ----------------------------------------------------------------------------
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Instalar NO no N8N**
-</p>
+
 n8n-nodes-chatwoot
 </p>
 n8n-nodes-quepasa
@@ -219,15 +219,15 @@ Acesse: chatwoot.dominio.com.br/superadmin
 Crie seu Token Platform Apps
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Crie uma Automação conforme a imagem abaixo**
-</p>
+
 <img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Automa%C3%A7%C3%A3o.png" alt="Automação" width="1000" />
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Criando sua Caixa de Entrada**
-</p>
+
 Criar um contato no Chatwoot
 </p>
 Quepasa Control
@@ -243,7 +243,7 @@ Quepasa Control
 /qrcode
 </p>
 ----------------------------------------------------------------------------
-</p>
+
 **Pronto tudo Funcionando**
-</p>
+
 ----------------------------------------------------------------------------
