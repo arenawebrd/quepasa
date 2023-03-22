@@ -16,3 +16,15 @@
 	<span>Grupo WhatsaAPP: </span>
 	<a href="https://t.me/quepasa_api" target="_blank">Group</a>
 </p>
+Manual de Instalação Chatwoot+N8N+Quepasa
+</p>
+Vamos precisar de 3 subdomínios
+</p>
+1º Chatwoot
+chatwoot.dominio.com.br
+
+2º N8N
+n8n.dominio.com.br
+
+3º Quepasa
+quepa.dominio.com.br
