@@ -216,6 +216,27 @@ Baixar Workflow
 </p>
 Disponiveis nesse Github
 </p>
+
+**Configue os Worflows no N8N**
+
+**Worflow QuepasaQrcode**
+
+</p>
+Acesse seuchatwoot/super_admin e crie um token na opção Platform Apps
+</p>
+Segundo NO “COLOCANDO DADOS" URL N8N, URL DO QUEPASA, URL CHATWOOT, TOKEN TOKEN PLATFORM APPS
+</p>
+Coloque suas credenciais NOS PostgreSQL, elas estarão em seu .env na pasta /home/chatwoot/chatwoot
+</p>
+Ligue seu Workflow e divirta-se 
+
+</p>
+
+**Worflows ChatwootToQuepasa QuepasaToChatwoot**
+
+</p>
+Adicione numeros NOS Trigger com numeros correspondente a Workflow
+</p>
 ----------------------------------------------------------------------------
 
 **Criando Seu Bot Agente**
