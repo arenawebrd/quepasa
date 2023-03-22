@@ -17,9 +17,11 @@
 	<a href="https://t.me/quepasa_api" target="_blank">Group</a>
 </p>
 ----------------------------------------------------------------------------
+</p>
+
 **Ajude o desenvolvedor deste Manual**
 
-<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="500" />
+<img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
 </p>
 
 **Manual de Instalação Chatwoot+N8N+Quepasa**
