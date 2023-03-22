@@ -242,16 +242,6 @@ Quepasa Control
 </p>
 /qrcode
 </p>
-Apos escanear Qrcode execute os seguintes comandos
-</p>
-/info
-</p>
-/webhook update
-</p>
-Duvidas veja como criar sua Caixa de Entrada
-</p>
-https://drive.google.com/drive/folders/1iqnDNIUou-Ly_9-WCI8_8J1Fqe9mrCH-?usp=share_link
-</p>
 ----------------------------------------------------------------------------
 </p>
 Pronto tudo Funcionando
