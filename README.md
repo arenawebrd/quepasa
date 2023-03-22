@@ -222,7 +222,7 @@ Crie seu Token Platform Apps
 </p>
 Crie uma Automação conforme a imagem abaixo
 </p>
-https://drive.google.com/drive/folders/1iqnDNIUou-Ly_9-WCI8_8J1Fqe9mrCH-?usp=share_link
+<img src="https://github.com/sufficit/sufficit-quepasa/raw/main/src/assets/favicon.png" alt="Quepasa-logo" width="100" />
 </p>
 ----------------------------------------------------------------------------
 </p>
