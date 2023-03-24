@@ -46,7 +46,7 @@ quepa.dominio.com.br
 
 **Manual de Instalação ChatWoot**
 
-sudo apt update && sudo apt upgrade
+sudo apt update && apt upgrade -y
 </p>
 wget https://get.chatwoot.app/linux/install.sh
 </p>
