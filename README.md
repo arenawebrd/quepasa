@@ -278,6 +278,20 @@ Leia QRCODE
 **Pronto tudo Funcionando**
 
 ----------------------------------------------------------------------------
+
+**Comando atualizar API Quepasa**
+
+su - quepasa
+</p>
+git pull
+</p>
+exit
+</p>
+systemctl daemon-reload
+</p>
+
+----------------------------------------------------------------------------
+
 </p>
 
 **Gostou do Tutorial? Faça sua Contribuição**
