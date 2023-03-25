@@ -66,10 +66,7 @@ yes
 </p>
 yes
 </p>
-nano /home/chatwoot/chatwoot/.env 
-</p>
-Adicione
-</p>
+
 ----------------------------------------------------------------------------
 
 **Manual de Instalação N8N**
