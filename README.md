@@ -42,31 +42,31 @@ sudo nano /etc/nginx/sites-available/quepasa
 
 ```
 server {
-</p>
+
   server_name quepasa.dominio.com.br;
-</p>
+
   location / {
-</p>
+
     proxy_pass http://127.0.0.1:31000;
-</p>
+
     proxy_http_version 1.1;
-</p>
+
     proxy_set_header Upgrade $http_upgrade;
-</p>
+
     proxy_set_header Connection 'upgrade';
-</p>
+
     proxy_set_header Host $host;
-</p>
+
     proxy_set_header X-Real-IP $remote_addr;
-</p>
+
     proxy_set_header X-Forwarded-Proto $scheme;
-</p>
+
     proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-</p>
+    
     proxy_cache_bypass $http_upgrade;
-</p>
+
   }
-</p>
+
   }
 ```
 
