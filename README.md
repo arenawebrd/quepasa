@@ -37,7 +37,10 @@ git clone https://github.com/sufficit/sufficit-quepasa /opt/quepasa-source
 bash /opt/quepasa-source/helpers/install.sh
 </p>
 sudo nano /etc/nginx/sites-available/quepasa
+
 </p>
+
+```
 server {
 </p>
   server_name quepasa.dominio.com.br;
@@ -65,6 +68,7 @@ server {
   }
 </p>
   }
+```
 
 sudo ln -s /etc/nginx/sites-available/quepasa /etc/nginx/sites-enabled
 </p>
