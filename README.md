@@ -30,115 +30,6 @@
 45959142000119	
 ```
 
-**Manual de Instalação Chatwoot+N8N+Quepasa**
-
-----------------------------------------------------------------------------
-</p>
-Vamos precisar de 3 subdomínios
-</p>
-1º Chatwoot
-</p>
-chatwoot.dominio.com.br
-</p>
-2º N8N
-</p>
-n8n.dominio.com.br
-</p>
-3º Quepasa
-</p>
-quepa.dominio.com.br
-</p>
-----------------------------------------------------------------------------
-
-**Manual de Instalação ChatWoot**
-
-sudo apt update && apt upgrade -y
-</p>
-wget https://get.chatwoot.app/linux/install.sh
-</p>
-chmod +x install.sh
-</p>
-./install.sh --install
-</p>
-Use as opções abaixo
-</p>
-yes
-</p>
-chatwoot.dominio.com.br
-</p>
-contato@dominio.com.br
-</p>
-yes
-</p>
-yes
-</p>
-
-----------------------------------------------------------------------------
-
-**Manual de Instalação N8N**
-
-sudo apt update && apt upgrade -y
-</p>
-sudo apt-get install -y libgbm-dev wget unzip fontconfig locales gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils
-</p>
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-</p>
-sudo apt-get install -y nodejs
-</p>
-sudo npm install n8n -g
-</p>
-npm update -g n8n
-</p>
-npm install pm2 -g
-</p>
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-</p>
-sudo apt install ./google-chrome-stable_current_amd64.deb
-</p>
-sudo nano /etc/nginx/sites-available/n8n
-</p>
-server {
-</p>
-  server_name n8n.dominio.com.br;
-</p>
-  location / {
-</p>
-    proxy_pass http://127.0.0.1:5678;
-</p>
-    proxy_http_version 1.1;
-</p>
-    proxy_set_header Upgrade $http_upgrade;
-</p>
-    proxy_set_header Connection 'upgrade';
-</p>
-    proxy_set_header Host $host;
-</p>
-    proxy_set_header X-Real-IP $remote_addr;
-</p>
-    proxy_set_header X-Forwarded-Proto $scheme;
-</p>
-    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-</p>
-    proxy_cache_bypass $http_upgrade;
-</p>
-    proxy_buffering off;
-</p>
-    proxy_cache off;
-</p>
-  }
-</p>
-  }
-</p>
-sudo ln -s /etc/nginx/sites-available/n8n /etc/nginx/sites-enabled
-</p>
-sudo certbot --nginx
-</p>
-sudo service nginx restart
-</p>
-pm2 start n8n --cron-restart="0 0 * * *" -- start
-</p>
-----------------------------------------------------------------------------
-
 **Manual de Instalação API Quepasa**
 
 git clone https://github.com/sufficit/sufficit-quepasa /opt/quepasa-source
@@ -195,13 +86,8 @@ systemctl restart quepasa
 </p>
 ----------------------------------------------------------------------------
 
-**Primeira parte da Instalação Finalizadas**
+**Instalação Finalizadas**
 
-Acesse:
-</p>
-chatwoot.dominio.com.br
-</p>
-n8n.dominio.com.br
 </p>
 quepa.dominio.com.br/setup
 </p>
