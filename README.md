@@ -36,6 +36,10 @@ git clone https://github.com/sufficit/sufficit-quepasa /opt/quepasa-source
 </p>
 bash /opt/quepasa-source/helpers/install.sh
 </p>
+sudo apt-get install nginx
+</p>
+cd /etc/nginx/sites-enabled
+</p>
 sudo nano /etc/nginx/sites-available/quepasa
 
 </p>
@@ -72,10 +76,28 @@ server {
 
 sudo ln -s /etc/nginx/sites-available/quepasa /etc/nginx/sites-enabled
 </p>
+</p>
+sudo apt-get install snapd
+</p>
+sudo snap install --classic certbot
+</p>
+sudo certbot --nginx
+</p>
+Coloque Email:
+</p>
+Y
+</p>
+Y
+</p>
 sudo certbot --nginx
 </p>
 sudo service nginx restart
 </p>
+
+----------------------------------------------------------------------------
+
+**Ativando SSL da API Quepasa**
+
 nano /opt/quepasa-source/src/.env
 </p>
 Alterar linha 1
@@ -88,6 +110,7 @@ WEBSOCKETSSL=true
 </p>
 systemctl restart quepasa
 </p>
+
 ----------------------------------------------------------------------------
 
 **Instalação Finalizadas**
